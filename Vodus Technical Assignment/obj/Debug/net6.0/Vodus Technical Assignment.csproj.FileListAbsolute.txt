@@ -1,0 +1,46 @@
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.csproj.AssemblyReference.cache
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.AssemblyInfoInputs.cache
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.AssemblyInfo.cs
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.csproj.CoreCompileInputs.cache
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.RazorAssemblyInfo.cache
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.RazorAssemblyInfo.cs
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\appsettings.Development.json
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\appsettings.json
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Vodus Technical Assignment.staticwebassets.runtime.json
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Vodus Technical Assignment.exe
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Vodus Technical Assignment.deps.json
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Vodus Technical Assignment.runtimeconfig.json
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Vodus Technical Assignment.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Vodus Technical Assignment.pdb
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Npgsql.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Vodus Technical Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Vodus Technical Assignment.props
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Vodus Technical Assignment.props
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Vodus Technical Assignment.props
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\staticwebassets.build.json
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\staticwebassets.development.json
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\scopedcss\bundle\Vodus Technical Assignment.styles.css
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\scopedcss\projectbundle\Vodus Technical Assignment.bundle.scp.css
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.csproj.CopyComplete
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\refint\Vodus Technical Assignment.dll
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.pdb
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\Vodus Technical Assignment.genruntimeconfig.cache
+D:\C#\Vodus Technical Assignment\Vodus Technical Assignment\obj\Debug\net6.0\ref\Vodus Technical Assignment.dll
